@@ -1,0 +1,3 @@
+-- Here is a project which diagnose house price in Ames, Iowa. 
+-- The dataset come from kaggle.
+-- It might be provide insight to you to get in touch with ridge regression and data visualization.
